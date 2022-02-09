@@ -3,4 +3,4 @@
 output
 single_output
 step_window
-pi.txt
+*.txt
