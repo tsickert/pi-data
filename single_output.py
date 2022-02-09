@@ -4,7 +4,7 @@ import os
 import PIL.Image as Image
 
 # Inputs
-SIZE = (500, 500)
+SIZE = (314, 314)
 OFFSET = 0
 
 # Configurations

@@ -1,5 +1,7 @@
 # Pi Art
 
+![](pi.png)
+
 This project contains a series of python scripts that use the data of Pi as a source for PNG files. 
 
 I had the idea for this project while talking with a friend about the infinite possibilities of the data in Pi.
